@@ -26,3 +26,10 @@
 |Ctrl-p| Access previous commands is history|
 |Ctrl-n | Access next command in history|
 |Ctrl-r | Reverse search through command history|
+
+#### Miscellaneous Commands
+| Keystroke 									 	| Action 		    													|
+| :---------------------------- | :-----------------------------------  |
+|Ctrl-I| Clear terminal screen|
+|Ctrl-c | Interrput current python command|
+|Ctrl-d | Exit Ipython session|
