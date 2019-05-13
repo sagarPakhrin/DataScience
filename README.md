@@ -18,3 +18,11 @@
 |Ctrl-u | Cut text from beginning of line to cursor|
 |Ctrl-y | Yank text that was previously cut |
 |Ctrl-t | Transpose previous two characters|
+
+
+#### History Commands
+| Keystroke 									 	| Action 		    													|
+| :---------------------------- | :-----------------------------------  |
+|Ctrl-p| Access previous commands is history|
+|Ctrl-n | Access next command in history|
+|Ctrl-r | Reverse search through command history|
