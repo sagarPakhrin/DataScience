@@ -65,5 +65,5 @@ Run code with the line-by-line memory profiler
 
 
 #### Timing Code Snippets: %timeit and %time
-`In[1] %timeit sum(range(100))`
+`In[1]: %timeit sum(range(100))`</br>
 `10000 loops, sebt of 3: 1.54 us per loop`
