@@ -33,3 +33,37 @@
 |Ctrl-I| Clear terminal screen|
 |Ctrl-c | Interrput current python command|
 |Ctrl-d | Exit Ipython session|
+
+#### Partial list of debugging commands
+| Command 									 	| Description 		    													|
+| :---------------------------- | :-----------------------------------  |
+|list| Show the current location in the file|
+|h(elp)| Show a list of commands, or find help on an specific command|
+|q(uit)| Quit the debugger and the program|
+|c(Continue)| Quit the debugger; continue in the program|
+|n(ext)| Go to the next step of the program|
+|<enter>| Repeat the previous command|
+|p(rint)| Print variables|
+|s(tep)| Step into a subroutine|
+|r(eturn)| Return out of a subroutine|
+
+
+#### Profiling and Timing Code
+Time the execution of a single statement
+`%time`
+
+The repeated execution of a single statement for more accuracy
+`%timeit`
+Run the code with profiler
+`%prun`
+Run code with line-by-line profiler
+`%lprun`
+Measure the memory use of a single statment
+`%memit`
+Run code with the line-by-line memory profiler
+`%mprun`
+
+
+#### Timing Code Snippets: %timeit and %time
+`In[1] %timeit sum(range(100))`
+`10000 loops, sebt of 3: 1.54 us per loop`
