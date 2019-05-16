@@ -6,7 +6,7 @@ Table of contents
 
 
 NumPy Standard Data Types
-=========================
+-------------------------
 Numpy arrays contain values of a single type, so it is important to have detailed knowledge of those
 types and their limitations. Because NumPy is Built in C, the types will be familiar to users of C,
 			Fortan, and other related languages.
@@ -36,7 +36,7 @@ types and their limitations. Because NumPy is Built in C, the types will be fami
 | complex128 | Complex number, represented by two 64-bit floats | 
 
 The basics of NumPy Arrays
-==========================
+--------------------------
 * [Attributes of arrays](#numpy-array-attributes)
 * [Indexing of arrays](#array-indexin-gaccessing-single-elements)
 * [Slicing of arrays](#array-slicing)
