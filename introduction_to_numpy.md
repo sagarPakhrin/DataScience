@@ -38,7 +38,7 @@ types and their limitations. Because NumPy is Built in C, the types will be fami
 The basics of NumPy Arrays
 ==========================
 * [Attributes of arrays](#numpy-array-attributes)
-* [Indexing of arrays](#array-indexing:accessing-single-elements)
+* [Indexing of arrays](#array-indexin-gaccessing-single-elements)
 * [Slicing of arrays](#array-slicing)
 * [Reshaping of arrays](#reshaping-of-arrays)
 * [Joining and splitting of arrays](#array-concatenation-and-splitting)
