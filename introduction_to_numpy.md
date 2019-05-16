@@ -3,7 +3,6 @@ Table of contents
 =================
 
 * [Numpy Standard Data Types](#numpy-standard-data-types)
-	* [Data types table](#Table)
 
 
 NumPy Standard Data Types
@@ -36,4 +35,12 @@ types and their limitations. Because NumPy is Built in C, the types will be fami
 | complex64 | Complex number, represented by two 32-bit floats | 
 | complex128 | Complex number, represented by two 64-bit floats | 
 
-## The basics of NumPy Arrays
+The basics of NumPy Arrays
+==========================
+* [Attributes of arrays](#numpy-array-attributes)
+* [Indexing of arrays](#array-indexing:accessing-single-elements)
+* [Slicing of arrays](#array-slicing)
+* [Reshaping of arrays](#reshaping-of-arrays)
+* [Joining and splitting of arrays](#array-concatenation-and-splitting)
+
+
